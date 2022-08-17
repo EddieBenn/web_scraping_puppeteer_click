@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.19",
+    "puppeteer": "^16.1.0"
+  },
+  "name": "web_scraping_puppeteer_click",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module"
+}
